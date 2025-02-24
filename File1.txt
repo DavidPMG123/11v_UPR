@@ -1,2 +1,6 @@
 File 1
+<<<<<<< HEAD
 Change 2
+=======
+Change 1
+>>>>>>> f1f2259ffb1e7caac2c1c5127a4691830eed11da
